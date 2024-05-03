@@ -6,8 +6,6 @@ This GitHub repository contains code for multilabel classification of 107 classe
 
 The dataset used in this project can be found [here](https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset).
 
-Here's an overview of the steps involved in the image processing and model tuning process:
-
 ## Image Processing Steps
 1. **Array NumPy Conversion**: The images were processed into NumPy arrays for efficient handling in deep learning models.
 2. **Reshaping to 224x224**: The images were reshaped to a standardized dimension of 224x224 pixels.
