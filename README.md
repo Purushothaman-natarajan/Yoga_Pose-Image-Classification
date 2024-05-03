@@ -1,6 +1,12 @@
 # Multilabel Classification with Various Base Models and Hyperparameter Tuning
 
-This GitHub repository contains code for multilabel classification of 107 classes using different base models: VGG16, VGG19, ResNet50, InceptionV3, DenseNet121, and MobileNetV2. The project focuses on customizing these models and evaluating their performance in the multilabel classification task. Here's an overview of the steps involved in the image processing and model tuning process:
+This GitHub repository contains code for multilabel classification of 107 classes using different base models: VGG16, VGG19, ResNet50, InceptionV3, DenseNet121, and MobileNetV2. The project focuses on customizing these models and evaluating their performance in the multilabel classification task. 
+
+## Dataset Source
+
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset).
+
+Here's an overview of the steps involved in the image processing and model tuning process:
 
 ## Image Processing Steps
 1. **Array NumPy Conversion**: The images were processed into NumPy arrays for efficient handling in deep learning models.
